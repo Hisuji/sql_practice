@@ -5,4 +5,6 @@
 - IS NULL
   - [이름이 없는/ 있는 동물의 아이디](IS_NULL/이름이없는(있는)동물의아이디.md)
   - [NULL 처리하기](IS_NULL/NULL처리하기.md)
+- JOIN
+  - [없어진 기록 찾기](JOIN/없어진기록찾기.md)
 
