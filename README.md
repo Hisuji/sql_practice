@@ -1,5 +1,5 @@
-# 🔐SQL 문제 풀이
-### 프로그래머스 SQL 고득점 Kit 문제 풀이
+# 🔐 SQL 문제 풀이
+### 💻 프로그래머스 SQL 고득점 Kit 문제 풀이
 
 - GROUP BY
   - [입양 시각 구하기(2)](GROUP_BY/입양시각구하기(2).md)
@@ -25,3 +25,7 @@
 
 - SUMMER/ WINTER CODING(2019)
   - [오랜 기간 보호한 동물(2)](SUMMER_WINTER_CODING/우유와요거트가담긴장바구니.md)
+
+### 💻 HackerRank sql 문제 풀이
+- difficulty levels : easy
+  - [Weather Observation Station 3](EASY/WeatherObservationStation3.md)
