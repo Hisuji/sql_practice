@@ -29,3 +29,4 @@
 ### 💻 HackerRank sql 문제 풀이
 - difficulty levels : easy
   - [Weather Observation Station 3](EASY/WeatherObservationStation3.md)
+  - [Weather Observation Station 6](EASY/WeatherObservationStation6.md)
