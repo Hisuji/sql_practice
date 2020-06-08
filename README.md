@@ -31,3 +31,4 @@
   - [Weather Observation Station 3](EASY/WeatherObservationStation3.md)
   - [Weather Observation Station 6](EASY/WeatherObservationStation6.md)
   - [Weather Observation Station 8](EASY/WeatherObservationStation8.md)
+  - [Weather Observation Station 11](EASY/WeatherObservationStation11.md) 
