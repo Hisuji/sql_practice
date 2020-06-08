@@ -15,6 +15,7 @@ WHERE REGEXP_LIKE (city, '^[aeiou].*[aeiou]$', 'i');
 #### 💡 REGEXP_LIKE
 
 - 정규표현식
+
 |표현식|뜻|
 |:---:|:---:|
 |^|문자열의 시작|
