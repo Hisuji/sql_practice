@@ -33,3 +33,4 @@
   - [Weather Observation Station 8](EASY/WeatherObservationStation8.md)
   - [Weather Observation Station 11](EASY/WeatherObservationStation11.md)
   - [Higher Than 75 Marks](EASY/HigherThan75Marks.md) 
+  - [Average Population](EASY/AveragePopulation.md)
