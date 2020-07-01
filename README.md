@@ -36,4 +36,5 @@
   - [Average Population](EASY/AveragePopulation.md) - ROUND()
 - difficulty levels : medium
   - [Occupations](MEDIUM/Occupations.md) - ROW_NUMBER() OVER(), PIVOT(), MIX(), MIN()
+  - [Weather Observation Station 18](MEDIUM/WeatherObservationStation18.md) - Manhattan distance
 
