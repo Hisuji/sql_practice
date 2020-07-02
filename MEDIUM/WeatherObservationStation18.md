@@ -14,4 +14,13 @@ FROM station;
 
 #### 💡 Manhattan distance
 
-- 
+- 직각으로 축을 따라 측정 된 두 점 사이의 거리
+  -  (X<sub>1</sub>, Y<sub>1</sub>)와 (X<sub>2</sub>, Y<sub>2</sub>) 사이의 맨하튼 거리 측정하는 방법
+    - (X<sub>1</sub> - X<sub>2</sub>) + (Y<sub>1</sub> - Y<sub>2</sub>)
+
+
+
+🍀 참고사이트
+
+- [101computing](https://www.101computing.net/manhattan-distance-calculator/)
+
