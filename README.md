@@ -34,6 +34,7 @@
   - [Weather Observation Station 11](EASY/WeatherObservationStation11.md)
   - [Higher Than 75 Marks](EASY/HigherThan75Marks.md) - SUBSTR()
   - [Average Population](EASY/AveragePopulation.md) - ROUND()
+  - [The Blunder](EASY/TheBlunder.md) - REPLACE(), CEIL()
 - difficulty levels : medium
   - [Occupations](MEDIUM/Occupations.md) - ROW_NUMBER() OVER(), PIVOT(), MIX(), MIN()
   - [Weather Observation Station 18](MEDIUM/WeatherObservationStation18.md) - Manhattan distance
