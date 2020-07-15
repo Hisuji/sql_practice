@@ -36,6 +36,7 @@
   - [Average Population](EASY/AveragePopulation.md) - ROUND()
   - [The Blunder](EASY/TheBlunder.md) - REPLACE(), CEIL()
   - [Top Earners](EASY/TopEarners.md) - Subquery
+  - [Weather Observation Station 13](EASY/WeatherObservationStation13.md) - BETWEEN
 - difficulty levels : medium
   - [Occupations](MEDIUM/Occupations.md) - ROW_NUMBER() OVER(), PIVOT(), MIX(), MIN()
   - [Weather Observation Station 18](MEDIUM/WeatherObservationStation18.md) - Manhattan distance
