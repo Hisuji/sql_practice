@@ -42,4 +42,5 @@
   - [Occupations](MEDIUM/Occupations.md) - ROW_NUMBER() OVER(), PIVOT(), MIX(), MIN()
   - [Weather Observation Station 18](MEDIUM/WeatherObservationStation18.md) - Manhattan distance
   - [Weather Observation Station 19](MEDIUM/WeatherObservationStation19.md) - Euclidean distance
+  - [Weather Observation Station 20](MEDIUM/WeatherObservationStation20.md) - MEDIAN()
 
