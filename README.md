@@ -43,4 +43,5 @@
   - [Weather Observation Station 18](MEDIUM/WeatherObservationStation18.md) - Manhattan distance
   - [Weather Observation Station 19](MEDIUM/WeatherObservationStation19.md) - Euclidean distance
   - [Weather Observation Station 20](MEDIUM/WeatherObservationStation20.md) - MEDIAN()
+  - [The Report](MEDIUM/The Report.md) - UNION(), Combining ORDER BY and UNION
 
