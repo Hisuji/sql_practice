@@ -46,4 +46,5 @@
   - [The Report](MEDIUM/TheReport.md) - UNION(), Combining ORDER BY and UNION
   - [Top Competitors](MEDIUM/TopCompetitors.md) - OVER(), PARTITION BY
   - [Ollivander's Inventory](MEDIUM/Ollivander'sInventory.md) - GROUP BY
+  - [Challenges](MEDIUM/Challenges.md) - LAG(), LEAD()
 
