@@ -47,4 +47,5 @@
   - [Top Competitors](MEDIUM/TopCompetitors.md) - OVER(), PARTITION BY
   - [Ollivander's Inventory](MEDIUM/Ollivander'sInventory.md) - GROUP BY
   - [Challenges](MEDIUM/Challenges.md) - LAG(), LEAD()
+  - [Contest Leaderboard](MEDIUM/ContestLeaderboard.md)
 
