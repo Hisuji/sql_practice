@@ -48,4 +48,4 @@
   - [Ollivander's Inventory](MEDIUM/Ollivander'sInventory.md) - GROUP BY
   - [Challenges](MEDIUM/Challenges.md) - LAG(), LEAD()
   - [Contest Leaderboard](MEDIUM/ContestLeaderboard.md)
-
+  - [SQL Project Planning](MEDIUM/SQLProjectPlanning.md) - CONNECT_BY_ROOT, CONNECT_BY_ISLEAF, START WITH, CONNECT BY, MINUS
