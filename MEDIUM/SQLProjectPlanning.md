@@ -42,6 +42,7 @@ ORDER BY LEVEL, start_date;
 - 계층형 쿼리에서 상위 행과 하위 행 사이의 관계 지정
 - **PRIOR**
   - 상위 로우 값 참조
+  - 이전 행의 end_date가 현재 행의 start_date인 관계
 
 
 
