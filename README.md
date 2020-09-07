@@ -38,6 +38,7 @@
   - [Top Earners](EASY/TopEarners.md) - Subquery
   - [Weather Observation Station 13](EASY/WeatherObservationStation13.md) - BETWEEN
   - [Weather Observation Station 14](EASY/WeatherObservationStation14.md) - TRUNC()
+  - [Draw The Triangle 1](EASY/DrawTheTriangle1.md) -  PL/SQL - Block Structure, SET SERVEROUTPUT ON, FOR LOOP 반복문
 - difficulty levels : medium
   - [Occupations](MEDIUM/Occupations.md) - ROW_NUMBER() OVER(), PIVOT(), MIX(), MIN()
   - [Weather Observation Station 18](MEDIUM/WeatherObservationStation18.md) - Manhattan distance
