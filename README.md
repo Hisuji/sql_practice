@@ -41,24 +41,15 @@
   - [Draw The Triangle 1](EASY/DrawTheTriangle1.md) -  PL/SQL - Block Structure, SET SERVEROUTPUT ON, FOR LOOP 반복문
 - difficulty levels : medium
   - [Occupations](MEDIUM/Occupations.md) - ROW_NUMBER() OVER(), PIVOT(), MIX(), MIN()
-  
   - [Weather Observation Station 18](MEDIUM/WeatherObservationStation18.md) - Manhattan distance
-  
   - [Weather Observation Station 19](MEDIUM/WeatherObservationStation19.md) - Euclidean distance
-  
   - [Weather Observation Station 20](MEDIUM/WeatherObservationStation20.md) - MEDIAN()
-  
   - [The Report](MEDIUM/TheReport.md) - UNION(), Combining ORDER BY and UNION
-  
   - [Top Competitors](MEDIUM/TopCompetitors.md) - OVER(), PARTITION BY
-  
   - [Ollivander's Inventory](MEDIUM/Ollivander'sInventory.md) - GROUP BY
-  
   - [Challenges](MEDIUM/Challenges.md) - LAG(), LEAD()
-  
   - [Contest Leaderboard](MEDIUM/ContestLeaderboard.md)
-  
   - [SQL Project Planning](MEDIUM/SQLProjectPlanning.md) - CONNECT_BY_ROOT, CONNECT_BY_ISLEAF, START WITH, CONNECT BY, MINUS
-  
   - [Placements](MEDIUM/Placements.md)
+  - [Symmetric Pairs](MEDIUM/SymmetricPairs.md)
 
