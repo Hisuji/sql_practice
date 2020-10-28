@@ -107,5 +107,14 @@ FROM employees;
 15. 매니저 및 사원들 중 최소 연봉을 받는 사원의 매니저의 사번과 연봉 조회, 매니저가 없는 사람들은 제외, 최소 연봉이 6000 미만인 경우 제외, 연봉 기준 역순으로 조회
 
 ```SQL
-
+-- 해석 1) 사원 중 매니저가 없는 사람과 연봉 6000 미만인 경우 제외하고, 그 사원의 매니저의 사번과 연봉 조회 
+SELECT EMPLOYEE_ID AS MANAGER_ID, SALARY AS manger_salary
+FROM employees
+WHERE EMPLOYEE_ID IN (
+                      SELECT MANAGER_ID
+                      FROM employees
+                      WHERE MANAGER_ID IS NOT NULL
+                      AND SALARY > 6000
+                     )
+ORDER BY SALARY DESC;
 ```
