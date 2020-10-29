@@ -117,4 +117,10 @@ WHERE EMPLOYEE_ID IN (
                       AND SALARY > 6000
                      )
 ORDER BY SALARY DESC;
+
+-- 해석 2) 매니저가 각각 관리하는 사원 중 연봉 6000 미만이면 제외하고 그 사원의 매니저의 사번과 연봉 조회
+SELECT MANAGER_ID, SALARY
+FROM employees
+GROUP BY MANAGER_ID
+HAVING min(SALARY) > 6000;
 ```
